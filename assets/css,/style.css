@@ -1,0 +1,27 @@
+
+
+
+ .#symbol {
+
+     width: 200px;
+     height: 200px;
+     
+     
+   
+    } 
+.jumbotron{
+    text-align: left;
+    font-family: fantasy;
+    background-image: url("https://cdn.gamerant.com/wp-content/uploads/the-legend-of-zelda-a-link-between-worlds-concept-art.jpg.optimal.jpg");
+    background-size: cover;
+     
+}
+h1 {
+    text-shadow: 2px 2px 8px #FF0000;
+    font-size: 100px;
+  }
+  
+
+
+
+}

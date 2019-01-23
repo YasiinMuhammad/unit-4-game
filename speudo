@@ -1,0 +1,8 @@
+crystal game 
+game produces a random number 
+the random number should be generated on each win or loss or page refresh
+the gmae contains 4 crystal that generate differnt random numbers from 1-10 that will be added up to equal the game produced random number.
+each crystal should be clicked and each should a value to get to the total number 
+if total = game number win
+if total != && goes over to game number loss
+
