@@ -9,6 +9,13 @@ gameResult = Math.floor(Math.random() * 120 - 12);
 $("#gameResults").html('game results: ' + gameResult);
 
 
+var symbol1 =Math.floor(Math.random() * 12 + 1);
+var symbol2 =Math.floor(Math.random() * 12 + 1);
+var symbol3 =Math.floor(Math.random() * 12 + 1);
+var symbol4 =Math.floor(Math.random() * 12 + 1);
+
+
+
 for(var i = 0; i < 4; i++) {
    
     
@@ -24,6 +31,7 @@ for(var i = 0; i < 4; i++) {
 
 
 }
+
 
 // generate randonm # for target score
 // display text $(#yourid).textContent 

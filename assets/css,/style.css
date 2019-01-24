@@ -22,6 +22,14 @@ h1 {
   }
   
 
-
+.symbols{
+    height: 200px;
+    width:  960px;
+}
+#symbol1, #symbol2, #symbol3, #symbol4{
+    height: 200px;
+    width: 200px;
+   
 
 }
+
