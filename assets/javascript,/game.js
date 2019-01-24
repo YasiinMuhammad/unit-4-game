@@ -4,7 +4,7 @@ var loss = 0;
 var targetScore;
 var playerResults=0;
 //generating random number for target Score
-targetScore = Math.floor(Math.random() * 120 - 12);
+targetScore = Math.floor(Math.random() * 102) + 19;
 //generates your html score
 $("#gameResults").html('Target Score: ' + targetScore);
 
